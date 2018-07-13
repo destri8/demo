@@ -1,14 +1,25 @@
 {
-  "posts": [
-    { "id": 1, "title": "Post 1" },
-    { "id": 2, "title": "Post 2" },
-    { "id": 3, "title": "Post 3" }
-  ],
-  "comments": [
-    { "id": 1, "body": "some comment", "postId": 1 },
-    { "id": 2, "body": "some comment", "postId": 1 }
-  ],
-  "profile": {
-    "name": "typicode"
-  }
+  "data": [
+    {
+      "username": "a219Kwl240",
+      "fullname": "Sanchez Zeha",
+      "photo": "https://randomuser.me/api/portraits/med/men/11.jpg",
+      "trx_count": 180,
+      "trx_amount": "90000"
+    },
+    {
+      "username": "o937sasd21",
+      "fullname": "Anna Barnett",
+      "photo": "https://randomuser.me/api/portraits/med/women/10.jpg",
+      "trx_count": 99,
+      "trx_amount": "1000000"
+    },
+    {
+      "username": "uel7f5Kpx1",
+      "fullname": "Nikita",
+      "photo": "https://randomuser.me/api/portraits/med/women/20.jpg",
+      "trx_count": 80,
+      "trx_amount": "10000"
+    }
+  ]
 }
